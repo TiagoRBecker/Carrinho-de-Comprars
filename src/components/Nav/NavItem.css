@@ -1,0 +1,35 @@
+nav{
+    width:100%;
+    background-color:#fff;
+    height:100px;
+    box-shadow:0px 0px 3px 1px rgba(0,0,0,0.6);
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.logo{
+    color: black;
+    font-size:18px;
+}
+.price p{
+    color: #999;
+    font-size:18px;
+    margin-bottom:5px;
+
+}
+.price span{
+    font-size:18px;
+    color:black;
+    font-weight:bold;
+}
+.btn{
+    padding: 15px 45px;
+    border-radius:4px;
+    border:none;
+    cursor: pointer;
+    background-color:#320E3B;
+    color:#fff;
+}
+.btn:hover{
+    background-color:#4C2A85;
+}
